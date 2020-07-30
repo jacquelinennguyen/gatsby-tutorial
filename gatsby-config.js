@@ -5,9 +5,9 @@
  */
 
 module.exports = {
-  /*siteMetaData: {
+  siteMetadata: {
     title: 'Full-Stack Bootcamp',
-    author: 'Jacqueline Nguyen'
+    author: 'Bazinga'
   },
   /* Your site config here */
   plugins: [
