@@ -8,7 +8,7 @@ const ContactPage = () => {
             <Head title="Contact"/>
             <h1>Contact</h1>
             <p>
-                The best way to contact me is through my Twitter profile <a href="https://twitter.com/kanyewest" target="_blank">@kanyewest</a></p>       
+                The best way to contact me is through my Twitter profile <a href="https://twitter.com/aoc" target="_blank">@aoc</a></p>       
         </Layout>
     )
 }
