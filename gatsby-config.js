@@ -7,7 +7,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Full-Stack Bootcamp',
-    author: 'Bazinga'
+    author: 'Jacqueline Nguyen'
   },
   /* Your site config here */
   plugins: [
