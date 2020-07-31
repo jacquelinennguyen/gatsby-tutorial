@@ -5,6 +5,8 @@ date: "2020-07-30"
 
 This isn't my bootcamp so here's my regular chipotle order instead.
 
+![Grad](./IMG_1251.jpg)
+
 ## My Chipotle Order:
 
 1. Chicken burrito bowl
